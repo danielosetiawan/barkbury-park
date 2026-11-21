@@ -1,0 +1,460 @@
+{
+  "id": "ep02",
+  "title": "My Best Friend Moved Away | Cozy Corgi Town",
+  "notes": "Bobo moves to a new house over the hill. Hammi is heartbroken until the whole town turns up in Dwight's bus to take him to surprise Bobo. Lighting carries the mood: golden -> grey and rainy -> sun breaking through -> sunset. Group shots (s19, s20) are the riskiest; expect to re-roll them. Hammi side-eyes Dany (a cat) until he smells her bread (s12/s12a); cuts the cake and keeps the big slice (s20/s20a). Toozi brings the road-trip music (s15a) and the party music (s19a); Vivi is picked up at the bus stop (s13a). Kids' show: cocoa, not tea; cake server, not knife. New: Jul (hip goat) boards the bus with a pose (s13b); Molly (ecstatic duck) cheers at the reunion (s19b).",
+  "shots": [
+    {
+      "id": "s01",
+      "caption": "Saturday",
+      "cast": [
+        "hammi",
+        "bobo"
+      ],
+      "keyframe": "Hammi and Bobo sitting side by side on a wooden park bench at the duck pond, each holding an ice cream cone, ducks on the water, autumn trees, warm golden morning light",
+      "motion": "Hammi and Bobo lick their ice creams and laugh together, ducks glide across the pond, leaves drift down. Static wide shot.",
+      "dialogue": [
+        {
+          "speaker": "bobo",
+          "line": "Best ice cream ever!",
+          "at": 0.4
+        },
+        {
+          "speaker": "hammi",
+          "line": "Every single Saturday!",
+          "at": 2.0
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "bobo"
+      ],
+      "keyframe": "Hammi and Bobo standing at the white picket fence between their two cottages, Bobo holding an open envelope and a folded letter, Bobo looking nervous and apologetic, Hammi looking at him curiously, soft afternoon light",
+      "motion": "Bobo slowly holds the letter out toward Hammi, ears lowering nervously, Hammi tilts his head. Slow push-in.",
+      "dialogue": [
+        {
+          "speaker": "bobo",
+          "line": "Hammi... I have something to tell you.",
+          "at": 0.4
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "front view head-and-shoulders portrait of Hammi facing the camera straight on, looking heartbroken, big upright ears drooping, eyes glossy, only his face, scarf and the top of his sweater in frame, soft afternoon light, shallow depth of field",
+      "motion": "Hammi's eyes glisten with tears and he slowly looks down at the ground, his big pointed ears stay standing upright. Static close-up.",
+      "negative_extra": "tail, side view, on all fours, smiling, floppy ears, folded ears, drooping ears, different dog breed",
+      "trim": 3.0
+    },
+    {
+      "id": "s04",
+      "caption": "Moving day",
+      "cast": [
+        "movers"
+      ],
+      "keyframe": "a big boxy moving truck with plain clean white sides with the words \"Jojo's Moving Company\" painted on the side in friendly blue letters, parked on the cobblestone street between two storybook cottages, one with a round blue door and one with a yellow door, the two beaver movers carrying a sofa up the ramp into the back of the truck, overcast grey sky, autumn trees",
+      "motion": "The two beavers lift the sofa and carry it up the ramp into the back of the truck. The sky stays calm and grey, nothing rises into the air. Static wide shot.",
+      "negative_extra": "smoke, exhaust, black cloud, steam, fire, misspelled text, changing text",
+      "still_only": false,
+      "allow_text": true
+    },
+    {
+      "id": "s05",
+      "caption": "",
+      "cast": [
+        "bobo"
+      ],
+      "keyframe": "the porch of a small cottage with a yellow door, stacks of closed cardboard boxes, Bobo standing upright beside a closed cardboard box with its flaps folded shut, pressing a strip of brown packing tape along the top seam with both front paws, a potted plant waiting to be packed, overcast light",
+      "motion": "Bobo smooths the tape flat along the top of the closed box and pats it down twice, the box stays closed the whole time, then Bobo pauses and glances at the cottage next door. Static medium shot.",
+      "trim": 3.0,
+      "negative_extra": "box opening, open flaps, turning around, back view"
+    },
+    {
+      "id": "s06",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "Hammi walking through the little garden gate in the white picket fence carrying a cardboard box in both paws, ears low, sad expression, overcast grey light, fallen leaves",
+      "motion": "Hammi walks slowly through the gate carrying the box with his head hung low and a sad face, his big pointed ears stay standing upright, leaves blow across the path. Slow tracking shot.",
+      "negative_extra": "floppy ears, folded ears, drooping ears, different dog breed"
+    },
+    {
+      "id": "s07",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "bobo"
+      ],
+      "keyframe": "Hammi and Bobo hugging tightly beside the moving truck on the cobblestone street, eyes closed, the first drops of gentle rain falling, grey sky, autumn leaves on the wet ground",
+      "motion": "Hammi and Bobo hold their hug, gently swaying, light rain begins to fall around them. Slow push-in.",
+      "dialogue": [
+        {
+          "speaker": "bobo",
+          "line": "I'll miss you so much.",
+          "at": 0.5
+        },
+        {
+          "speaker": "hammi",
+          "line": "Me too, Bobo.",
+          "at": 2.4
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "caption": "",
+      "cast": [],
+      "keyframe": "rear view of a boxy moving truck driving away down a long rainy cobblestone street, already halfway down the street, rain falling, puddles reflecting the tail lights, grey light, empty street, autumn trees",
+      "motion": "The truck rolls slowly away into the rain and grows smaller, rain falls, its tail lights glow in the puddles. Static camera."
+    },
+    {
+      "id": "s08a",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "medium shot of Hammi standing upright alone on the wet cobblestone street in the rain, one paw raised in a small sad wave, ears drooping, the street empty behind him, grey light, puddles",
+      "motion": "Hammi slowly lowers his waving paw and his ears droop as the rain keeps falling. Static medium shot.",
+      "trim": 3.4
+    },
+    {
+      "id": "s09",
+      "caption": "That afternoon",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "Hammi sitting alone at his cozy kitchen table by the window, raindrops running down the glass, a mug of hot cocoa with a marshmallow going cold in front of him, chin resting on his paws, dim grey light, warm lamp",
+      "motion": "Rain trickles down the window, a thin wisp of steam rises from the cocoa, Hammi blinks slowly and lets out a small sad sigh, his face stays sad and quiet. Static camera.",
+      "negative_extra": "smiling, grinning, laughing, happy, open mouth, tail, fluffy tail, side view, profile, turning around, turning sideways, back view, extra legs, six legs, four legs, on all fours",
+      "still_only": false
+    },
+    {
+      "id": "s10",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "a wooden picture frame standing upright on the kitchen table in the foreground, large in the shot, facing the camera straight on and showing a plain blank white photo, Hammi sitting just behind the table, gazing at the picture frame with sad gentle eyes, rain-streaked window behind, soft lamp light",
+      "motion": "Rain keeps pouring down the window behind him, Hammi gazes at the picture frame with sad gentle eyes, blinks slowly and lets out a small sigh, ears relaxing a little. The picture frame on the table stays perfectly still. Static camera.",
+      "negative_extra": "moving the frame, touching the frame, smiling, grinning, tail, side view, turning around, on all fours, extra legs",
+      "still_only": false,
+      "trim": 2.6
+    },
+    {
+      "id": "s11",
+      "caption": "",
+      "cast": [],
+      "keyframe": "an empty storybook cottage with a yellow door, the porch now bare, curtains gone from the windows, rain falling, puddles on the garden path, grey light, a white picket fence in the foreground",
+      "motion": "Rain falls on the empty porch, a single leaf blows across the bare garden path. Slow pull-back."
+    },
+    {
+      "id": "s12",
+      "caption": "Knock knock",
+      "cast": [
+        "hammi",
+        "dany",
+        "juniper"
+      ],
+      "keyframe": "Hammi standing in his open round blue front door giving a suspicious side-eye to Dany, who holds a basket of fresh bread, Juniper beside her holding a bouquet of flowers, rain has stopped, sunlight breaking through the clouds; only one cat and one fox",
+      "motion": "Hammi narrows his eyes and side-eyes the cat for a long beat, the cat smiles sweetly and lifts the bread basket a little higher. Static medium shot.",
+      "dialogue": [
+        {
+          "speaker": "dany",
+          "line": "We brought you some bread, dear.",
+          "at": 0.5
+        },
+        {
+          "speaker": "juniper",
+          "line": "And flowers!",
+          "at": 3.0
+        }
+      ]
+    },
+    {
+      "id": "s12a",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "front view head-and-shoulders close-up of Hammi facing the camera straight on, only his face, scarf and the top of his sweater in frame, nose twitching as he sniffs, eyes going wide with delight, the edge of a wicker basket of golden bread loaves in the bottom corner, warm sunlight, shallow depth of field",
+      "motion": "Hammi stays facing the camera, sniffs the warm bread, his suspicious face melts into a huge happy grin and his ears perk up. Only his face and shoulders are in frame the whole time. Static close-up.",
+      "dialogue": [
+        {
+          "speaker": "hammi",
+          "line": "...okay, fine. Thank you.",
+          "at": 0.2
+        }
+      ],
+      "negative_extra": "tail, fluffy tail, side view, profile, turning around, turning sideways, back view, extra legs, six legs, four legs, on all fours"
+    },
+    {
+      "id": "s13",
+      "caption": "",
+      "cast": [
+        "dwight",
+        "hoot",
+        "pip"
+      ],
+      "keyframe": "a small round vintage green bus parked at the curb decorated with colorful paper bunting, Dwight waving from the driver's window, Professor Hoot standing in the open door, Pip bouncing on the steps, wet cobblestones shining in fresh sunlight; one otter, one owl, one hamster",
+      "motion": "The hamster bounces up and down, the owl beckons with one wing, the otter waves, the bunting flutters. Static wide shot.",
+      "dialogue": [
+        {
+          "speaker": "hoot",
+          "line": "Come along, Hammi! We're going on a trip!",
+          "at": 0.3,
+          "babble": "Come along, Hammi!"
+        },
+        {
+          "speaker": "pip",
+          "line": "Road trip! Road trip!",
+          "at": 2.6
+        }
+      ]
+    },
+    {
+      "id": "s13a",
+      "caption": "",
+      "cast": [
+        "vivi"
+      ],
+      "keyframe": "Vivi standing upright at a wooden bus stop on a wet cobblestone street in fresh sunlight, holding a cup of boba milk tea in one paw and waving excitedly with the other, ears flapping, puddles reflecting the sky",
+      "motion": "Vivi waves excitedly, bounces in place with a happy yap, long ears flapping, the cup of milk tea held steady. Static medium shot.",
+      "negative_extra": "collar, dog collar, black fur, lifting cup overhead, jumping, spinning",
+      "dialogue": [
+        {
+          "speaker": "vivi",
+          "line": "Wait for me! Wait for me!",
+          "at": 0.8
+        }
+      ]
+    },
+    {
+      "id": "s13b",
+      "caption": "",
+      "cast": [
+        "jul"
+      ],
+      "keyframe": "Jul striking a cool pose in the open doorway of a small green vintage bus decorated with paper bunting, one hoof lowering the round tinted sunglasses, confident smile, wet cobblestones shining in fresh sunlight",
+      "motion": "Jul lowers the sunglasses with one hoof, gives a confident little smile, then strikes a pose and steps onto the bus. Static medium shot.",
+      "negative_extra": "turning around, back view, two goats, extra legs",
+      "dialogue": [
+        {
+          "speaker": "jul",
+          "line": "Did somebody say road trip?",
+          "at": 0.8
+        }
+      ],
+      "trim": 3.0
+    },
+    {
+      "id": "s14",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "front view head-and-shoulders close-up of Hammi facing the camera straight on, only his face, scarf and the top of his sweater in frame, ears drooping a little, doorway background softly blurred, warm sunlight on his face",
+      "motion": "Hammi's ears shoot straight up and a big hopeful smile spreads across his face. He stays facing the camera, only head and shoulders in frame. Static close-up.",
+      "negative_extra": "tail, fluffy tail, side view, profile, turning around, turning sideways, back view, extra legs, six legs, four legs, on all fours"
+    },
+    {
+      "id": "s15",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "pip",
+        "dany"
+      ],
+      "keyframe": "chest-up view inside the cozy vintage bus, Hammi, Pip and Dany sitting side by side behind the tall seat back in front of them, only their heads, shoulders and raised paws visible above the seat back, all three cheering, a basket of bread and flowers beside them, sunny countryside passing outside",
+      "motion": "The three friends stay seated behind the seat back and cheer with paws raised, swaying gently with the bus, the countryside slides past the window. Only their upper bodies are visible. Static camera.",
+      "dialogue": [
+        {
+          "speaker": "pip",
+          "line": "Are we there yet?",
+          "at": 0.5
+        },
+        {
+          "speaker": "dany",
+          "line": "Almost, sweetie!",
+          "at": 2.2
+        }
+      ],
+      "negative_extra": "standing up, jumping, legs, feet, tail, fluffy tail, side view, profile, turning around, turning sideways, back view, extra legs, six legs, four legs, on all fours"
+    },
+    {
+      "id": "s15a",
+      "caption": "",
+      "cast": [
+        "toozi"
+      ],
+      "keyframe": "waist-up shot inside the cozy vintage bus decorated with paper bunting, Toozi sitting in a seat like a person, two arms holding a small retro boombox on the lap, big headphones on, grinning, sunny countryside outside the window",
+      "motion": "Toozi bobs the head to the beat and taps the boombox with one hoof, grinning, the countryside slides past the window. Static medium shot.",
+      "dialogue": [
+        {
+          "speaker": "toozi",
+          "line": "Road trip playlist, ready!",
+          "at": 1.2
+        }
+      ],
+      "negative_extra": "four legs, horse body, hooves on the seat, standing up, extra limbs, two horses"
+    },
+    {
+      "id": "s16",
+      "caption": "Over the hill",
+      "cast": [],
+      "keyframe": "wide landscape of a small green vintage bus decorated with bunting driving over an old stone bridge across a river, rolling autumn hills, golden afternoon light, a little village on the hill beyond",
+      "motion": "The bus trundles across the bridge, the river sparkles, birds fly across the sky. Slow side tracking shot."
+    },
+    {
+      "id": "s17",
+      "caption": "",
+      "cast": [
+        "bobo"
+      ],
+      "keyframe": "a small new cottage with a red door on a sunny hillside, cardboard boxes on the porch, Bobo standing upright alone on the porch steps looking a bit lonely, glancing toward the road, golden afternoon light",
+      "motion": "Bobo lifts his head and looks toward the road with a hopeful face, then slowly stands up, his curly fluffy ears stay soft and round. Static medium shot.",
+      "negative_extra": "pointed ears, different dog, spitz, husky, turning around"
+    },
+    {
+      "id": "s18",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "front view of Hammi running upright on two short legs toward the camera along a grassy hillside path, arms swinging, big happy smile, a cottage with a red door and the green bus with bunting behind him, golden light, autumn leaves",
+      "motion": "Hammi runs upright toward the camera on two short legs, ears bouncing, big smile, leaves swirling behind him. Tracking shot.",
+      "negative_extra": "tail, side view, back view, black rump, extra legs, six legs, five legs, four legs, on all fours, tail on the corgi, extra arms"
+    },
+    {
+      "id": "s19",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "bobo"
+      ],
+      "keyframe": "Hammi and Bobo hugging joyfully in front of a cottage with a red door, other animal friends cheering in the soft background, autumn leaves tossed in the air like confetti, golden sunset light",
+      "motion": "Hammi and Bobo squeeze each other in a big happy hug and spin around, leaves flutter through the air. Slow push-in.",
+      "dialogue": [
+        {
+          "speaker": "bobo",
+          "line": "Hammi?! You came!",
+          "at": 0.2
+        },
+        {
+          "speaker": "hammi",
+          "line": "Of course I did!",
+          "at": 2.0
+        }
+      ]
+    },
+    {
+      "id": "s19a",
+      "caption": "",
+      "cast": [
+        "toozi"
+      ],
+      "keyframe": "Toozi on the porch of a cottage with a red door at sunset, standing upright beside a small retro boombox on a crate, big headphones around the neck, string lights glowing, autumn leaves",
+      "motion": "Toozi sways side to side to the beat facing the camera and claps both hooves, smiling, string lights twinkle. Static medium shot.",
+      "negative_extra": "turning around, back view, horse on four legs, extra legs, two horses",
+      "dialogue": [
+        {
+          "speaker": "toozi",
+          "line": "Party time!",
+          "at": 1.0
+        }
+      ]
+    },
+    {
+      "id": "s20a",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "pip"
+      ],
+      "keyframe": "front view at table height of a porch table at sunset with string lights, Pip on the left behind a tiny plate holding one very thin sliver of cake, Hammi on the right behind a giant plate with an almost whole big frosted cake, only their upper bodies visible above the table, Hammi grinning and holding a fork, Pip staring at the tiny sliver, mouth open in surprise",
+      "motion": "Hammi stays standing upright facing the camera and does a happy little wiggle, raising his fork with a big grin, while Pip stares at the tiny sliver of cake in disbelief. Neither of them moves toward the cake. Static medium shot.",
+      "dialogue": [
+        {
+          "speaker": "pip",
+          "line": "Hey! That's not fair!",
+          "at": 3.0
+        }
+      ],
+      "negative_extra": "leaning, bending over, eating, lifting the cake, tail, fluffy tail, side view, profile, turning around, turning sideways, back view, extra legs, six legs, four legs, on all fours",
+      "still_only": false
+    },
+    {
+      "id": "s21",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "bobo"
+      ],
+      "keyframe": "medium close-up on the porch at sunset, Hammi holding up a large wooden picture frame with both paws like presenting a gift, the frame facing the camera straight on and showing a plain blank white photo, big proud smile, Bobo right beside him leaning in to look at it with shining happy eyes, string lights glowing",
+      "motion": "Hammi holds the picture frame perfectly still and beams proudly, Bobo's eyes shine with happy tears and Bobo smiles. Only their faces move, the frame does not move at all. Static medium shot.",
+      "dialogue": [
+        {
+          "speaker": "hammi",
+          "line": "So you never forget us.",
+          "at": 0.4
+        },
+        {
+          "speaker": "bobo",
+          "line": "Thank you, Hammi. Best friends forever.",
+          "at": 2.0
+        }
+      ],
+      "negative_extra": "moving the frame, waving, tail, fluffy tail, side view, profile, turning around, turning sideways, back view, extra legs, six legs, four legs, on all fours",
+      "still_only": false
+    },
+    {
+      "id": "s22",
+      "caption": "Some friends are just a bus ride away",
+      "cast": [
+        "pigeons"
+      ],
+      "keyframe": "wide shot of the little cottage with a red door on the hillside at dusk, warm windows and string lights glowing, a group of small animal friends on the porch, the green bus parked below, the three pigeons perched on the roof, first stars in a pink and purple sky",
+      "motion": "The camera slowly pulls back from the glowing cottage, the pigeons settle on the roof, stars twinkle in the sky. Slow pull-back."
+    }
+  ],
+  "music_prompt": "Gentle storybook music for a children's cartoon about friendship, soft felt piano melody and warm strings, starts tender and a little wistful, then grows bright and bouncy with pizzicato strings, glockenspiel and light hand claps, ending warm and joyful, major key, 92 BPM, instrumental, no vocals",
+  "clip_guidance": 3,
+  "removed_shots": [
+    {
+      "id": "s19b",
+      "caption": "",
+      "cast": [
+        "molly"
+      ],
+      "keyframe": "Molly standing upright on the porch of a cottage with a red door at golden sunset, both wings thrown up in the air with joy, beak wide open in a happy cheer, big sparkly eyes, string lights glowing, autumn leaves",
+      "motion": "Molly flaps both wings wildly and hops up and down in pure joy, beak open in a happy cheer, little tears of happiness sparkling. Static medium shot.",
+      "negative_extra": "arms, hands, two ducks, extra legs, flying away",
+      "dialogue": [
+        {
+          "speaker": "molly",
+          "line": "Yay! Yay! Best day EVER!",
+          "at": 0.6
+        }
+      ]
+    },
+    {
+      "id": "s20",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "bobo",
+        "pip"
+      ],
+      "keyframe": "front view at table height of a porch table at sunset with string lights, Bobo on the left, Hammi in the middle holding a cake server over a big round frosted cake cutting a very thin tiny slice, Pip on the right, only their upper bodies visible above the table",
+      "motion": "Hammi carefully cuts a very thin tiny slice, then pauses and glances left and right at his friends. Everyone stays behind the table. Static medium shot.",
+      "negative_extra": "knife, blade, extra legs, six legs, five legs, four legs, on all fours, tail on the corgi, extra arms"
+    }
+  ]
+}

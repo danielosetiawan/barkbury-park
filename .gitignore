@@ -1,0 +1,11 @@
+keyframes/
+clips/
+renders/
+music/
+queues/
+.DS_Store
+logs/
+archive/
+tests/
+review/
+cloud_out/

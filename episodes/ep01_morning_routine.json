@@ -1,0 +1,381 @@
+{
+  "id": "ep01",
+  "title": "Hammi's First Day at School | Cozy Corgi Town",
+  "notes": "Pilot: Hammi's first day at school. Wake-up, kitchen ritual, dishes, out the door, bus with Dwight, arrives nervous at the schoolhouse; Professor Hoot (teacher) welcomes him, Pip (classmate) drops a stack of books, and Hammi ends up happy at a desk beside Pip. Bobo cameo in s11b. Pigeon glare + lock-up (s11/s11a), toast gulp (s06a). Introduces Vivi (s13a, bus stop) and Toozi (s14b, on the bus).",
+  "shots": [
+    {
+      "id": "s01",
+      "caption": "6:58am",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "a small cozy bedroom at dawn, Hammi asleep under a patchwork quilt in a little wooden bed, soft golden morning light through lace curtains, a round alarm clock on the nightstand",
+      "motion": "Hammi slowly stirs under the quilt, one ear twitches, sunlight drifts across the bed, dust motes float in the light. Slow gentle push-in camera.",
+      "name_card": {
+        "name": "Hammi",
+        "tagline": "professional corgi"
+      }
+    },
+    {
+      "id": "s02",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "Hammi sitting up in bed, eyes half closed, stretching both front paws up high with a big yawn, cozy bedroom, warm dawn light",
+      "motion": "Hammi stretches both paws upward and yawns widely, then blinks sleepily and smiles. Static camera."
+    },
+    {
+      "id": "s03",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "close-up of short corgi legs stepping into fuzzy red slippers on a wooden floor beside a little bed, morning light",
+      "motion": "Two short corgi paws wiggle into fuzzy red slippers, then step forward out of frame. Static low camera."
+    },
+    {
+      "id": "s03a",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "cozy little storybook bathroom, Hammi standing upright on a small wooden step stool at the bathroom sink facing the mirror, brushing his teeth with a small blue toothbrush, white foamy toothpaste around his mouth, a cup with a toothbrush holder, soft morning light, the tap is off and out of frame",
+      "motion": "Hammi scrubs his teeth up and down with the toothbrush, foam bubbling around his mouth, then grins wide at his reflection to show sparkling clean teeth. The sink stays still. Static medium shot.",
+      "negative_extra": "faucet handle, running water, moving faucet, turning around, two corgis",
+      "dialogue": []
+    },
+    {
+      "id": "s04",
+      "caption": "7:02am — breakfast",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "warm cluttered cottage kitchen, Hammi standing upright at the counter pouring colorful cereal from a cereal box into a big blue bowl, a small jug of milk beside it, hanging plants, window over the sink showing autumn trees",
+      "motion": "Hammi tilts the cereal box and pours cereal into the blue bowl in a neat little stream, then sets the box down and smiles proudly at his breakfast. Nothing flies through the air, the kitchen is calm and still. Static medium shot.",
+      "negative_extra": "coffee, mug, steam, flying cereal, confetti, falling leaves, particles, spilling, splashing"
+    },
+    {
+      "id": "s05",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "close-up of Hammi sitting at a little wooden kitchen table holding a spoon over a big blue bowl of colorful cereal and milk, eyes bright and happy, warm kitchen background softly blurred",
+      "motion": "Hammi scoops up a big spoonful of cereal, eats it and chews happily with his cheeks puffed, ears wiggling with delight. Static close-up.",
+      "negative_extra": "coffee, mug, steam, cup"
+    },
+    {
+      "id": "s06",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "extreme close-up of two small corgi paws diligently spreading butter across a slice of golden toast with a little butter knife on a wooden cutting board, crumbs, warm morning kitchen light, shallow depth of field",
+      "motion": "The paws spread butter across the toast in slow, careful, neat strokes, edge to edge. Static macro shot."
+    },
+    {
+      "id": "s06a",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "medium shot of Hammi standing upright at the kitchen counter holding a slice of buttered toast in both front paws in front of his chest, mouth closed, eyes darting sideways as if checking that nobody is watching, cozy morning kitchen",
+      "motion": "Hammi glances left, then right, then stuffs the whole slice of toast into his mouth in one gulp, cheeks puffed out, and chews happily. Static medium shot."
+    },
+    {
+      "id": "s07",
+      "caption": "7:20am — dishes",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "Hammi standing on a small wooden step stool at the kitchen sink washing a plate with a yellow sponge, soap bubbles, window above the sink with morning light and autumn trees",
+      "motion": "Hammi scrubs the plate in slow circles with the sponge and a few soap bubbles float up and pop. The faucet stays perfectly still and turned off. Static camera."
+    },
+    {
+      "id": "s08",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "close-up inside the cozy cottage kitchen of Hammi holding his blue mug with both small fluffy paws under a simple curved metal spout, a thin steady stream of water filling the mug, no taps, handles or levers anywhere in view, soap bubbles in the sink, morning sunlight through the window above the sink",
+      "motion": "Hammi holds the blue mug steady under the stream as it fills with water, then lifts it away with a satisfied little smile. The spout stays perfectly still. Slow macro shot.",
+      "negative_extra": "faucet handle, tap handle, lever, knob, moving faucet, rotating faucet, drinking"
+    },
+    {
+      "id": "s09",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "waist-up shot of Hammi standing upright at the kitchen sink sliding a clean white plate into a wooden dish rack with both front paws, proud smile, cozy kitchen, warm morning light",
+      "motion": "Hammi slides the plate into the dish rack and gives a small proud nod. Static waist-up shot."
+    },
+    {
+      "id": "s10",
+      "caption": "7:41am",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "Hammi standing upright at the cottage's round blue front door with his forest-green scarf already neatly wrapped around his neck and a small black school backpack worn on his back with both straps over his shoulders, both feet planted, proud little smile, autumn morning light",
+      "motion": "Hammi pats his scarf flat once with one paw, gives his backpack straps a little tug, lifts his chin and smiles proudly, ears perking up. His feet stay planted and the scarf stays wrapped. Static medium shot.",
+      "negative_extra": "taking off scarf, scarf falling, walking, turning around, briefcase, satchel, handbag, messenger bag"
+    },
+    {
+      "id": "s11",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "pigeons"
+      ],
+      "keyframe": "Hammi standing outside a small storybook cottage with a round blue door, glaring suspiciously up at three pigeons in little flat caps perched on the roof, narrowed eyes, autumn leaves on the cobblestones",
+      "motion": "Hammi slowly narrows his eyes at the pigeons, the three pigeons tilt their heads back at him in unison. Slow push-in.",
+      "name_card": {
+        "name": "The Pigeons",
+        "tagline": "Hammi's nemeses"
+      }
+    },
+    {
+      "id": "s11a",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "close-up of Hammi's small fluffy copper-and-white paw turning a small brass key in a simple keyhole on a round blue wooden door, the door has no doorknob and no handle, Hammi's face in profile at the edge of frame glancing back over his shoulder, autumn morning light",
+      "motion": "Hammi turns the brass key in the keyhole with a click, pulls the key out and tucks it into his sweater, then glances nervously back over his shoulder. Static close-up.",
+      "negative_extra": "doorknob, door handle, lever handle, black paws, dark paw pads, oversized paws, human hand"
+    },
+    {
+      "id": "s11b",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "bobo"
+      ],
+      "keyframe": "two storybook cottages side by side with a low white picket fence between their gardens, Hammi standing upright at the fence in front of the round blue door, Bobo standing upright on the other side in front of a cottage with a yellow door, waving one front paw high in the air, autumn leaves on the grass, soft morning light",
+      "motion": "Bobo waves one front paw happily over the fence, Hammi smiles and waves back, autumn leaves drift down between them. Static medium shot.",
+      "dialogue": [
+        {
+          "speaker": "bobo",
+          "line": "Good morning, Hammi!",
+          "at": 0.5,
+          "babble": "Morning, Hammi!"
+        },
+        {
+          "speaker": "hammi",
+          "line": "Morning, Bobo! See you later!",
+          "at": 2.6,
+          "babble": "Morning, Bobo!"
+        }
+      ],
+      "name_card": {
+        "name": "Bobo",
+        "tagline": "best friend & neighbor"
+      }
+    },
+    {
+      "id": "s12",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "wide shot of a cobblestone street in Pawsley Hollow, autumn trees, small animal-sized shopfronts, hanging lanterns, a clock tower in the distance, Hammi walking upright along the sidewalk with a small black school backpack worn on his back with both straps over his shoulders",
+      "motion": "Hammi walks along the sidewalk toward the camera, leaves swirl in a gentle breeze, a shop sign swings. Slow tracking shot.",
+      "negative_extra": "briefcase, satchel, handbag, messenger bag, turning around"
+    },
+    {
+      "id": "s13",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "dany"
+      ],
+      "keyframe": "front window of a cozy bakery with loaves and pastries on display, a plump ginger tabby cat in a flour-dusted pink apron waving from the doorway, Hammi waving back as he passes",
+      "motion": "Hammi stays facing the camera, stops in front of the bakery and waves back with a big smile while Dany waves warmly from the doorway, warm golden loaves sit in the window. Neither of them turns around. Static camera.",
+      "dialogue": [
+        {
+          "speaker": "dany",
+          "line": "Fresh croissants, sweetie!",
+          "at": 0.15,
+          "babble": "Morning, sweetie!"
+        },
+        {
+          "speaker": "hammi",
+          "line": "Hmm... maybe.",
+          "at": 1.65,
+          "babble": "Hmm!"
+        }
+      ],
+      "name_card": {
+        "name": "Dany",
+        "tagline": "the baker (a cat… suspicious)"
+      },
+      "negative_extra": "tail on the corgi, corgi tail, two corgis, duplicate characters, turning around, walking away",
+      "trim": 2.3
+    },
+    {
+      "id": "s13a",
+      "caption": "",
+      "cast": [
+        "vivi"
+      ],
+      "keyframe": "Vivi standing upright at a wooden bus stop on an autumn cobblestone street, holding a cup of boba milk tea with a wide straw, ears perked, looking excitedly off to the side as if spotting a friend, morning light",
+      "motion": "Vivi takes a small sip from the straw, then lowers the cup and gives a happy little bounce in place with an excited yap, long ears flapping. The cup stays held in both paws in front of the chest. Static medium shot.",
+      "dialogue": [
+        {
+          "speaker": "vivi",
+          "line": "Hammi! Hammi! Hi, Hammi!",
+          "at": 1.9,
+          "babble": "Hammi! Hammi! Morning!"
+        }
+      ],
+      "name_card": {
+        "name": "Vivi",
+        "tagline": "runs on milk tea"
+      },
+      "negative_extra": "collar, dog collar, name tag, lifting cup overhead, jumping, spinning, black fur"
+    },
+    {
+      "id": "s14",
+      "caption": "7:55am — the bus",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "a small round vintage green bus pulling up to a wooden bus stop on a cobblestone street, Hammi sitting on the bench facing the camera wearing a small black school backpack worn on his back with both straps over his shoulders, autumn morning",
+      "motion": "The bus rolls to a gentle stop and its doors fold open, Hammi hops down from the bench with a happy smile, still facing the camera. Static wide shot.",
+      "negative_extra": "briefcase, satchel, handbag, bag on the bench, turning around, back view, tail",
+      "trim": 3.4
+    },
+    {
+      "id": "s14a",
+      "caption": "",
+      "cast": [
+        "dwight"
+      ],
+      "allow_text": true,
+      "keyframe": "medium close-up of Dwight sitting in the driver's seat of a vintage green bus, smiling and tipping his navy bus-driver cap with his raised left paw, which is on the right side of the picture, while his right paw, on the left side of the picture, rests on the big steering wheel, a small white rectangular name badge pinned on the left side of his vest over his heart (right side of the picture) that reads \"Dwight\" in neat black letters, warm morning light through the windshield",
+      "motion": "Dwight tips his cap with his left paw and smiles warmly, then puts that paw back on the steering wheel and keeps smiling at the camera. He stays seated facing forward so his vest and name badge stay in view. Static medium close-up.",
+      "dialogue": [
+        {
+          "speaker": "dwight",
+          "line": "Mornin', Hammi! All aboard!",
+          "at": 0.35,
+          "babble": "Mornin', Hammi!"
+        }
+      ],
+      "name_card": {
+        "name": "Dwight",
+        "tagline": "the bus driver"
+      },
+      "negative_extra": "name tag in the center of the chest, large name tag, misspelled text, garbled letters, right paw raised",
+      "trim": 2.2
+    },
+    {
+      "id": "s14b",
+      "caption": "",
+      "cast": [
+        "toozi"
+      ],
+      "keyframe": "inside a cozy vintage bus, Toozi sitting in a seat with big headphones on, eyes half closed enjoying the music, sunny town passing outside the window, warm morning light",
+      "motion": "Toozi bobs to the beat with eyes closed, then opens them, grins and raises one hoof in a cheerful wave. Static medium shot.",
+      "dialogue": [
+        {
+          "speaker": "toozi",
+          "line": "Festival this weekend! You in?",
+          "at": 2.6,
+          "babble": "Festival this weekend?"
+        }
+      ],
+      "name_card": {
+        "name": "Toozi",
+        "tagline": "never misses a festival"
+      }
+    },
+    {
+      "id": "s15",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "view from outside a small round vintage green bus driving down an autumn cobblestone street, Hammi sticking his head out of an open side window, big ears blown back by the wind, tongue out, eyes squinting with joy, colorful shopfronts and autumn trees, sunny morning",
+      "motion": "Hammi leans his head out of the bus window, his ears and fur flap wildly in the wind, tongue flopping happily, the street slides past behind the bus. Tracking shot alongside the bus."
+    },
+    {
+      "id": "s16",
+      "caption": "8:10am — school",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "a cozy little storybook schoolhouse classroom with small wooden desks, a green chalkboard covered in chalk doodles of stars, apples and leaves, a garland of paper autumn leaves along the wall, big windows with warm morning light, Hammi standing upright just inside the classroom doorway holding the straps of his black backpack with both paws, a shy nervous smile",
+      "motion": "Hammi peeks around the classroom, takes a deep breath, then gives a small shy wave with one paw and smiles. Static medium shot."
+    },
+    {
+      "id": "s16a",
+      "caption": "",
+      "cast": [
+        "hoot"
+      ],
+      "keyframe": "close-up of Professor Hoot standing in front of the green chalkboard holding a piece of chalk, peering kindly over his half-moon spectacles toward the camera, a cozy little storybook schoolhouse classroom with small wooden desks, a green chalkboard covered in chalk doodles of stars, apples and leaves, a garland of paper autumn leaves along the wall, big windows with warm morning light",
+      "motion": "Professor Hoot keeps his spectacles on his face the whole time, smiles warmly and gives one slow approving nod, then gestures gently toward the camera with the chalk. Static close-up.",
+      "dialogue": [
+        {
+          "speaker": "hoot",
+          "line": "Welcome to class, Hammi.",
+          "at": 3.2,
+          "babble": "Welcome, Hammi!"
+        }
+      ],
+      "name_card": {
+        "name": "Professor Hoot",
+        "tagline": "the teacher"
+      },
+      "negative_extra": "removing glasses, taking off spectacles, owl without glasses"
+    },
+    {
+      "id": "s16c",
+      "caption": "",
+      "cast": [
+        "pip"
+      ],
+      "keyframe": "close-up of Pip sitting at a small wooden school desk hugging a tall wobbling stack of picture books in both tiny paws, wide panicked eyes, a cozy little storybook schoolhouse classroom with small wooden desks, a green chalkboard covered in chalk doodles of stars, apples and leaves, a garland of paper autumn leaves along the wall, big windows with warm morning light",
+      "motion": "The stack of picture books wobbles and topples onto the desk, crayons roll everywhere, Pip winces and then grins sheepishly. Static close-up.",
+      "dialogue": [
+        {
+          "speaker": "pip",
+          "line": "Oops! Sorry, sorry!",
+          "at": 0.8,
+          "babble": "Oops! Sorry, sorry!"
+        }
+      ],
+      "name_card": {
+        "name": "Pip",
+        "tagline": "new classmate, a little clumsy"
+      }
+    },
+    {
+      "id": "s17",
+      "caption": "",
+      "cast": [
+        "hammi",
+        "pip"
+      ],
+      "keyframe": "Hammi and Pip sitting side by side at two small wooden school desks, Hammi on the left and Pip on the right, both smiling, a crayon drawing of a corgi on Hammi's desk, a cozy little storybook schoolhouse classroom with small wooden desks, a green chalkboard covered in chalk doodles of stars, apples and leaves, a garland of paper autumn leaves along the wall, big windows with warm morning light",
+      "motion": "Hammi and Pip stay seated at their desks, turn to look at each other and smile, Hammi gives a happy little wiggle in his seat and Pip waves one tiny paw. Clean clear air. Static medium shot.",
+      "dialogue": [],
+      "negative_extra": "standing up, dust specks, floating particles, grain"
+    }
+  ],
+  "music_prompt": "Cheerful children's TV show theme music, playful ukulele strums, bouncy glockenspiel and xylophone melody, light hand claps, soft shaker, warm upright bass, bright major key, happy and curious, 112 BPM, instrumental, no vocals",
+  "removed_shots": [
+    {
+      "id": "s06b",
+      "caption": "",
+      "cast": [
+        "hammi"
+      ],
+      "keyframe": "close-up of Hammi standing upright at the kitchen counter with his cheeks hugely puffed out and stuffed full of toast, toast crumbs on his white muzzle, both front paws empty and held up innocently, eyes wide, cozy morning kitchen, an empty plate on the counter",
+      "motion": "Hammi chews happily with his cheeks stuffed full, crumbs falling from his muzzle, then blinks innocently. Static close-up.",
+      "transition": "cut"
+    }
+  ]
+}
